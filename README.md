@@ -28,7 +28,7 @@ It helps promote hygiene by enabling **touchless waste disposal**.
 - Smart homes and clean environment projects.
 
 ## Images
-<img width="963" height="1280" alt="image" src="https://github.com/user-attachments/assets/559037e7-4318-499c-9218-2b014b1e6c13" />
+<img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/559037e7-4318-499c-9218-2b014b1e6c13" />
 
 ##  Author
 ## *ANS JOSE*
